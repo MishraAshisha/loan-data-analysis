@@ -47,8 +47,6 @@ Libraries Used:
 
 ## 📗 Excel Dashboard
 
-(Insert Excel Dashboard Screenshot)
-
 The original dashboard was built in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, Timeline Filters, Conditional Formatting, and interactive dashboard design techniques. Users can dynamically switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, with every KPI card, chart, and visualization updating automatically based on the selected metric. Interactive slicers enable analysis by Issue Date, State, Purpose, Loan Term, Grade, and Sub Grade, allowing users to explore the loan portfolio from multiple business perspectives.
 
 ![Dashboard Screenshot](BL-E1.PNG)
@@ -62,8 +60,6 @@ The original dashboard was built in Microsoft Excel using Pivot Tables, Pivot Ch
 
 ## 📊 Power BI Dashboard
 
-(Insert Power BI Dashboard Screenshot)
-
 The dashboard was recreated in Power BI using Power Query for data cleaning and transformation, data modeling, relationships, DAX measures, calculated columns, and dynamic parameters. Interactive slicers, KPI cards, and cross-filtering provide a seamless analytical experience. A dynamic parameter allows users to switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, automatically updating every visual across the report while preserving the same business logic as the Excel dashboard.
 
 🔗 Power BI Dashboard
@@ -75,13 +71,9 @@ The dashboard was recreated in Power BI using Power Query for data cleaning and 
 
 ## 📈 Tableau Public Dashboard
 
-(Insert Tableau Dashboard Screenshot)
-
 The Tableau dashboard was developed using Calculated Fields, Parameters, Interactive Filters, Dashboard Actions, Filter Actions, Highlight Actions, and Maps to recreate the same interactive experience. Users can dynamically switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, with every chart and KPI updating instantly. Interactive filters allow users to explore lending performance across states, loan purposes, employment lengths, grades, and loan terms.
 
 🔗 Tableau Public Dashboard
-
-(Add your Tableau Public link here)
 
 
 ---
