@@ -55,8 +55,8 @@ The original dashboard was built in Microsoft Excel using Pivot Tables, Pivot Ch
 ![Dashboard Screenshot](BL-E2.PNG)
 ![Dashboard Screenshot](BL-E3.PNG)
 
-📎 Excel Workbook Included:
-[Excel_Workbook](e2)
+📎 Workbook: [Excel_Workbook](E2E_PROJECT_3_BL.xlsm)
+
 (The Excel workbook is included in this repository. Download it to interact with all filters, slicers, and dashboard elements.)
 
 
