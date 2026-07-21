@@ -51,7 +51,9 @@ Libraries Used:
 
 The original dashboard was built in Microsoft Excel using Pivot Tables, Pivot Charts, Slicers, Timeline Filters, Conditional Formatting, and interactive dashboard design techniques. Users can dynamically switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, with every KPI card, chart, and visualization updating automatically based on the selected metric. Interactive slicers enable analysis by Issue Date, State, Purpose, Loan Term, Grade, and Sub Grade, allowing users to explore the loan portfolio from multiple business perspectives.
 
-![Dashboard Screenshot](CBA-PBI1.PNG)
+![Dashboard Screenshot](BL-E1)
+![Dashboard Screenshot](BL-E2)
+![Dashboard Screenshot](BL-E3)
 
 📎 Excel Workbook Included:
 
