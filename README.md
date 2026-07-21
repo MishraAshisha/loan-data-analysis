@@ -50,7 +50,7 @@ The original dashboard was built in Microsoft Excel using Pivot Tables, Pivot Ch
 
 The dashboard was recreated in Power BI using Power Query for data cleaning and transformation, data modeling, relationships, DAX measures, calculated columns, and dynamic parameters. Interactive slicers, KPI cards, and cross-filtering provide a seamless analytical experience. A dynamic parameter allows users to switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, automatically updating every visual across the report while preserving the same business logic as the Excel dashboard.
 
-### 🔗 Power BI Dashboard
+### 🔗 Power BI Dashboard Link
 
 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGM5ZmZmMzQtOTQyNy00MDY0LThjZGYtMjFhMzNjZTAyODgxIiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9&embedImagePlaceholder=true&pageName=f6d61709b5e96242c90c)
 
@@ -59,7 +59,7 @@ The dashboard was recreated in Power BI using Power Query for data cleaning and 
 
 The Tableau dashboard was developed using Calculated Fields, Parameters, Interactive Filters, Dashboard Actions, Filter Actions, Highlight Actions, and Maps to recreate the same interactive experience. Users can dynamically switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, with every chart and KPI updating instantly. Interactive filters allow users to explore lending performance across states, loan purposes, employment lengths, grades, and loan terms.
 
-### 🔗 Tableau Public Dashboard
+### 🔗 Tableau Public Dashboard Link
 [View Live Dashboard](https://public.tableau.com/views/E2EPROJECT3-BANKLOAN/DETAILS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
