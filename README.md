@@ -60,14 +60,13 @@ The original dashboard was built in Microsoft Excel using Pivot Tables, Pivot Ch
 
 ## 📊 Power BI Dashboard
 
+
 The dashboard was recreated in Power BI using Power Query for data cleaning and transformation, data modeling, relationships, DAX measures, calculated columns, and dynamic parameters. Interactive slicers, KPI cards, and cross-filtering provide a seamless analytical experience. A dynamic parameter allows users to switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, automatically updating every visual across the report while preserving the same business logic as the Excel dashboard.
 
 🔗 Power BI Dashboard
 
-(Add your Power BI link here)
+![View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGM5ZmZmMzQtOTQyNy00MDY0LThjZGYtMjFhMzNjZTAyODgxIiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9)
 
-
----
 
 ## 📈 Tableau Public Dashboard
 
