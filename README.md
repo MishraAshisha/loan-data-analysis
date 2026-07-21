@@ -28,6 +28,8 @@ Libraries Used:
 
 3. **Matplotlib**:	Data Visualization
 
+### Exploratory analysis and data preparation notebook: [Pyhton_File](E2E_PROJECT_3_BANK_LOAN.ipynb)
+
 
 ## 📗 Excel Dashboard
 
