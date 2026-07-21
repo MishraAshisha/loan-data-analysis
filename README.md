@@ -59,6 +59,10 @@ The dashboard was recreated in Power BI using Power Query for data cleaning and 
 
 The Tableau dashboard was developed using Calculated Fields, Parameters, Interactive Filters, Dashboard Actions, Filter Actions, Highlight Actions, and Maps to recreate the same interactive experience. Users can dynamically switch between Total Loans Issued, Total Funded Amount, and Total Amount Received, with every chart and KPI updating instantly. Interactive filters allow users to explore lending performance across states, loan purposes, employment lengths, grades, and loan terms.
 
+![Dashboard Screenshot](BL-T1.png)
+![Dashboard Screenshot](BL-T2.png)
+![Dashboard Screenshot](BL-T3.png)
+
 ### 🔗 Tableau Public Dashboard Link
 [View Live Dashboard](https://public.tableau.com/views/E2EPROJECT3-BANKLOAN/DETAILS?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
