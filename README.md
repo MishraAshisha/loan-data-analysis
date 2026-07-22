@@ -1,5 +1,7 @@
 # 🏦 Bank Loan Analysis | End-to-End Data Analytics Project
 
+**By Ashisha Mishra**
+
 An end-to-end Bank Loan Analysis project built using Python, Microsoft Excel, Power BI, and Tableau Public. The objective of this project is to analyze loan performance, borrower behaviour, repayment trends, and portfolio risk through interactive dashboards and business intelligence reporting.
 
 The project follows the complete data analytics lifecycle—from data cleaning and exploratory analysis in Python to dashboard development in Excel and replication in Power BI and Tableau—providing actionable business insights through interactive visualizations.
