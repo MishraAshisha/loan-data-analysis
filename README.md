@@ -110,5 +110,5 @@ This project is licensed under the MIT License.
 
 Ashisha Mishra
 
-LinkedIn:
+LinkedIn: [Ashisha_Mishra](https://www.linkedin.com/in/ashisha-mishra)
 
